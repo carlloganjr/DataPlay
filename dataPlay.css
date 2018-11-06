@@ -1,0 +1,9 @@
+.dataChart div {
+  background-color: blue;
+  border-radius: 0 15px 15px 0;
+}
+
+h1 {
+  font-family: Sans-Serif;
+  margin-left: 10px;
+}
